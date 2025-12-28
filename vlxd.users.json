@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "694a9e269426cbcf90d16b81"
+  },
+  "name": "khai",
+  "email": "huynhkhai2062@gmail.com",
+  "password": "$2b$10$5zkDDzZDwHF0D755RPGF.e./C34Go812WkWyvx2HDhDUIblTno5tG",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694aa2af9426cbcf90d16b8a"
+  },
+  "name": "f",
+  "email": "f@gmail.com",
+  "password": "$2b$10$CiRfLVP.9BbkcozWHC4jzO7YuEPWkKPhgw5RUDJDU//gk6.CkSJz6",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694aa2f79426cbcf90d16b8f"
+  },
+  "name": "g",
+  "email": "2",
+  "password": "$2b$10$5ywcrqIv2XPLf93goKQJtO5keymfDH0h41NFoL9rSpTJfiG0POYdC",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694abb729426cbcf90d16bb1"
+  },
+  "name": "1",
+  "email": "1",
+  "password": "$2b$10$JG3xSj5L7hNye325WtjQsOyJGoM5zdvWK9yyp5lfc7wDzXOwyLT.y",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694b6b80d6122a72f8f029e3"
+  },
+  "name": "111",
+  "email": "111@gmail.com",
+  "password": "$2b$10$lgy7akPq3AOyCoFCLzrk8uaOXZHk70tOG.TKYSx4hFSCnVj582wk6",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694b6eb2d6122a72f8f029f9"
+  },
+  "name": "1234",
+  "email": "1234@gmail.om",
+  "password": "$2b$10$vj/TftVXO8W6mU2zHM6UQ.ijU81RCTPvxZ8dOIneax1/DPKASXNR.",
+  "role": "user",
+  "__v": 0,
+  "balance": 4736002
+}]
